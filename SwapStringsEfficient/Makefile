@@ -1,4 +1,3 @@
-#Makefile for Msp430Service
 
 TARGET=swpInPlace
 SOURCE = swpInPlace.c \
